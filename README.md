@@ -1,3 +1,6 @@
+This repo contains test data for the Guestivus git client project:
+https://github.com/microsoft/Guestivus
+
 
 # Contributing
 
